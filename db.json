@@ -1,0 +1,144 @@
+{
+  "dogs": [
+    {
+      "name": "Pedro",
+      "image": "/assets/blue-heeler.png",
+      "description": "translate inasmuch kindly shabby poorly miserably afore cleanse",
+      "isFavorite": false,
+      "id": 0
+    },
+    {
+      "name": "Luigi",
+      "image": "/assets/blue-heeler.png",
+      "description": "brr tough sheepishly aha after ugh metaphor pearl",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Nicole",
+      "image": "/assets/cowardly.png",
+      "description": "valiantly voluntarily apropos though boo",
+      "isFavorite": true,
+      "id": 2
+    },
+    {
+      "name": "Solon",
+      "image": "/assets/boxer.png",
+      "description": "smug huzzah suspiciously across downplay",
+      "isFavorite": true,
+      "id": 3
+    },
+    {
+      "name": "Hector",
+      "image": "/assets/blue-heeler.png",
+      "description": "past atop tasty serum what why when",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Dovie",
+      "image": "/assets/corgi.png",
+      "description": "yuck extremely inasmuch hasten threadbare",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Hope",
+      "image": "/assets/corgi.png",
+      "description": "crow lumpy throughout ack crime across adventurous",
+      "isFavorite": true,
+      "id": 6
+    },
+    {
+      "name": "Joanie",
+      "image": "/assets/boxer.png",
+      "description": "enraged correctly how parka yuck",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "name": "Gina",
+      "image": "/assets/corgi.png",
+      "description": "since fracture sadly live unlike nor elderly amidst",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Selmer",
+      "image": "/assets/blue-heeler.png",
+      "description": "scrambled youthfully required excepting gerrymander",
+      "isFavorite": false,
+      "id": 9
+    },
+    {
+      "name": "Jan",
+      "image": "/assets/blue-heeler.png",
+      "description": "knowingly industrialisation feast movie whereas partially pace radar",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Jerel",
+      "image": "/assets/corgi.png",
+      "description": "tweet abnormally that tame never shiny hmph",
+      "isFavorite": true,
+      "id": 11
+    },
+    {
+      "name": "Cleveland",
+      "image": "/assets/boxer.png",
+      "description": "ironclad how thankfully grouchy inasmuch minus barring",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "name": "Derrick",
+      "image": "/assets/dalmation.png",
+      "description": "willfully cautiously consequently meh pfft pricey whoa huzzah",
+      "isFavorite": false,
+      "id": 13
+    },
+    {
+      "name": "Alejandra",
+      "image": "/assets/corgi.png",
+      "description": "aha on boohoo toward woot required tussle ick",
+      "isFavorite": false,
+      "id": 14
+    },
+    {
+      "name": "Cara",
+      "image": "/assets/dalmation.png",
+      "description": "deployment exert seafood gosh for",
+      "isFavorite": true,
+      "id": 15
+    },
+    {
+      "name": "Garrick",
+      "image": "/assets/chihuahua.avif",
+      "description": "helpfully in-joke forenenst action meh impinge live",
+      "isFavorite": true,
+      "id": 16
+    },
+    {
+      "name": "Lea",
+      "image": "/assets/corgi.png",
+      "description": "meh pish yowza which conventional",
+      "isFavorite": true,
+      "id": 17
+    },
+    {
+      "name": "Breanne",
+      "image": "/assets/boxer.png",
+      "description": "warmly tortoise dull ack among plagiarism wallop",
+      "isFavorite": true,
+      "id": 18
+    },
+    {
+      "name": "Bettye",
+      "image": "/assets/cowardly.png",
+      "description": "though participate gee while perfumed happily flawed",
+      "isFavorite": false,
+      "id": 19
+    }
+  ]
+}
